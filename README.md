@@ -23,18 +23,6 @@ Mood...............Building cool things...
 
 ---
 
-## 🖤 Badges Animados
-
-<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="80"> <!-- Python -->
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80"> <!-- GitHub -->
-<img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="80"> <!-- VS Code -->
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="80"> <!-- Anime vibe -->
-<img src="https://media.giphy.com/media/l0HlQ7LRal6rJrjDW/giphy.gif" width="80"> <!-- Cyberpunk -->
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="80"> <!-- Gothic -->
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="80"> <!-- Animals -->
-
----
-
 ## ⚡ Tech Stack
 - **Languages:** Python, SQL  
 - **Tools:** GitHub, VS Code, Postman  
